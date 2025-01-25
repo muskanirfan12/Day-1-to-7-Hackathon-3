@@ -1,7 +1,6 @@
 # Car Rental E-Commerce Platform
 
-Welcome to my Car Rental E-Commerce Platform! This project aims to provide a dynamic and user-friendly platform for renting cars, leveraging modern technologies for seamless functionality and an engaging user experience.
-
+Welcome to my Car Rental E-Commerce Platform! This project aims to provide a dynamic and user-friendly platform for renting cars!
 ---
 
 ## 📅 Hackathon Progress
@@ -89,25 +88,15 @@ Welcome to my Car Rental E-Commerce Platform! This project aims to provide a dyn
 ---
 
 ## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/car-rental-platform.git
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Run the development server:
+2. Run the development server:
    ```bash
    npm run dev
    ```
-
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
----
 
 ## 💡 Future Plans
 - Implement advanced filtering options (e.g., by price, car type).
@@ -117,9 +106,7 @@ Welcome to my Car Rental E-Commerce Platform! This project aims to provide a dyn
 ---
 
 ## 👩‍💻 Author
-**Rimsha Ansari**
+**MUSKAN IRFAN AHMED**
 - Passionate Web Developer
-- Senior Student Stamp 🏅 holder
-- English Teacher 👩‍🏫
-
+- 
 Feel free to reach out for collaboration or feedback!
